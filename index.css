@@ -1,0 +1,18 @@
+#bod{
+    background-color: #FFFFFF;
+}
+
+#b{
+    min-width: 400px;
+    min-height: 400px;
+    visibility: hidden;
+    margin-left: 35%;
+    font-size: large;
+}
+#nar{
+  text-decoration: none;
+  font-family: sans-serif;
+  font-style: normal;
+  text-align: center;
+  width: 100%;
+}
