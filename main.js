@@ -59,7 +59,7 @@ async function getButton() {
   await wait(2000);
 
   narrator("You can have this counter. I don't really need it anyways");
-  changeTitle("Is this another Cookie Clicker copy?");
+  changeTitle("Oh man, just as I thought...");
 
   canClick = true;
 
